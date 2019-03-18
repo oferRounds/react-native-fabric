@@ -325,8 +325,8 @@
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"$(SRCROOT)/../../../ios/Pods/Headers/Public/Crashlytics",
-					"$(SRCROOT)/../../../ios/Crashlytics/**",
-					"$(SRCROOT)/../../../ios/**",
+					"$(SRCROOT)/../../../ios/Crashlytics",
+					"$(SRCROOT)/../../../ios",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -347,8 +347,8 @@
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"$(SRCROOT)/../../../ios/Pods/Headers/Public/Crashlytics",
-					"$(SRCROOT)/../../../ios/Crashlytics/**",
-					"$(SRCROOT)/../../../ios/**",
+					"$(SRCROOT)/../../../ios/Crashlytics",
+					"$(SRCROOT)/../../../ios",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
